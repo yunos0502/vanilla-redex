@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-redex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yunos82/vanilla-redex.git",
+  "author": "Park Gyu Ae <yunos0502@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
